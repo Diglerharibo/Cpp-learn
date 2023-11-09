@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "c:\\Users\\egoro\\AppData\\Local\\Programs\\MSYS2\\ucrt64.exe"
+        }
+    ],
+    "version": 4
+}
