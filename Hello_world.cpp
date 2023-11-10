@@ -1,7 +1,8 @@
 // First program on C++
 #include <iostream>
+using namespace std;
 int main()
 {
-    std::cout << "First step in C++" << std::endl;
+    cout << "First step in C++" << endl;
     return 0;
 }
